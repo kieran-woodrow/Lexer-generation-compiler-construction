@@ -11,7 +11,7 @@ Implementation of lexical analysis
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Running the Project](#-running-the-project)
-- 
+
 ---
 
 ## 📚 Project Overview
