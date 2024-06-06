@@ -46,9 +46,7 @@ Can be run in vs code or terminal.
 
 ## 🏃🏻‍♂️ Running The Project
 
-1. Run the ThreadDemoCounter.java file for task 1
-2. Run the ThreadDemoCounter.java file for task 2
-3. Run the ThreadDemoCounter.java file for task 3
+1. Run the Main.java file 
 
 ---
 
